@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>aniya/b1.png</file>
+        <file>aniya/b2.png</file>
+        <file>aniya/b3.png</file>
+        <file>aniya/b4.png</file>
+        <file>aniya/b5.png</file>
+        <file>aniya/b6.png</file>
+        <file>aniya/b9.png</file>
+        <file>aniya/b8.png</file>
+        <file>aniya/b7.png</file>
+        <file>theme1/1.png</file>
+        <file>theme1/2.png</file>
+        <file>theme1/3.png</file>
+        <file>theme1/4.png</file>
+        <file>theme1/5.png</file>
+        <file>theme1/6.png</file>
+        <file>theme1/7.png</file>
+        <file>theme1/8.png</file>
+        <file>theme1/9.png</file>
+        <file>theme2/1.png</file>
+        <file>theme2/2.png</file>
+        <file>theme2/3.png</file>
+        <file>theme2/4.png</file>
+        <file>theme2/5.png</file>
+        <file>theme2/6.png</file>
+        <file>theme2/7.png</file>
+        <file>theme2/8.png</file>
+        <file>theme2/9.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/close.png</file>
+        <file>icon/NO.png</file>
+        <file>icon/syp.png</file>
+        <file>icon/music.png</file>
+        <file>icon/addFile.png</file>
+        <file>icon/start.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/end.png</file>
+        <file>icon/listTitle.png</file>
+        <file>icon/clearList.png</file>
+        <file>icon/640.gif</file>
+        <file>icon/Up.png</file>
+        <file>icon/Down.png</file>
+        <file>icon/change.png</file>
+        <file>icon/btuBk.png</file>
+    </qresource>
+</RCC>
